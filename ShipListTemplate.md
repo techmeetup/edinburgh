@@ -1,0 +1,15 @@
+## Ship List
+- [ ] Open Tech Calendar event ([link to event])
+- [ ] Drinks ordered
+- [ ] Drinks delivered to SkyScanner
+- [ ] Pizza ordered
+- [ ] Speakers confirmed (<#123, #456 [links to issues]>)
+- [ ] Confirmed speakers video and internet requirements
+- [ ] Website updated ([link to commit])
+- [ ] Email announcement sent
+- [ ] Confirm organisers present
+    - [ ] @mikemcquaid
+    - [ ] @rwillmer
+    - [ ] @MariusCiocanel
+    - [ ] @marshant
+    - [ ] @douglasm
