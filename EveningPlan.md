@@ -1,0 +1,31 @@
+## Evening Plan
+- 1820 
+	- Arrive at Skyscanner
+	- Setup tables in the middle of the room
+	- Lay out drinks and bin bags for rubbish
+	- Lay out pizzas when they arrive
+	- Mingle, get to know new people and try and find new potential speakers
+- 1930
+	- Thank our sponsors Skyscanner, Informatics Ventures and Neo.
+	- Tell people about the fire exit location (to the right before walking into the room)
+	- Tell people not to lean/sit on the tables as they will fall over
+	- Get people to form a circle around the room and work your way around with intros on name, why you're here, job etc. Start with an organiser.
+	- Do any notices.
+	- Tell people to set up their chairs.
+	- 5 minute break while you set up the mics and first talk.
+- 1945
+	- First talk.
+	- Moderate questions at the end; limit number of questions if going on too long and try and stop questions that are actually statements.
+	- 5 minute break while you set up the second talk.
+- 2015
+	- Second talk.
+	- Moderate questions at the end; limit number of questions if going on too long and try and stop questions that are actually statements.
+- 2045
+	- Thank our sponsors Skyscanner, Informatics Ventures and Neo.
+	- Tell people we are going to the pub (Doctors).
+	- Tell people to put their chairs away.
+	- Clear up: put everything in bins, put drinks back on trolley and into cupboard.
+- 2100
+	- Everyone out.
+	- Go to pub.
+	- Sleep.
