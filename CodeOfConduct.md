@@ -1,12 +1,12 @@
 # Code of Conduct
-TechMeetup Edinburgh is an event intended for education, networking and community. To ensure it is a welcoming, friendly environment all attendees, speakers and organisers and volunteers at any TechMeetup Edinburgh meetup are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the meetup and meetup-related social events.
+TechMeetup Edinburgh is an event intended for education, networking, and community. To ensure it is a welcoming, friendly environment all attendees, speakers and organisers and volunteers at any TechMeetup Edinburgh meetup are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the meetup and meetup-related social events.
 
 TechMeetup Edinburgh is dedicated to providing a harassment-free meetup experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for our meetup, including talks. TechMeetup Edinburgh participants violating these rules may be asked to leave at the discretion of the meetup organisers.
 
 ## The Longer Version
-Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behaviour are expected to comply immediately.
+Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate Sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behaviour are expected to comply immediately.
 
-Additionally, as well as not tolerating harassment we want TechMeetup to be a welcoming environment for people to learn. As a result we don't want people pretending to be surprised when someone doesn't know something ("I can't believe you don't know what the stack is!"), well-actually's ("Well, actually OSX is a certified Unix and Linux isn't!") or unsolicited negative feedback ("Hi, you don't know me but I just thought you should know your talk wasn't very well structured!").
+Additionally, we want TechMeetup to be a welcoming environment for people to learn. As a result, we don't want people pretending to be surprised when someone doesn't know something ("I can't believe you don't know what the stack is!"), well-actually's ("Well, actually, OSX is a certified Unix and Linux isn't!") or unsolicited negative feedback ("Hi, you don't know me but I just thought you should know your talk wasn't very well structured!").
 
 If a participant engages in harassing behaviour, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.
 
@@ -16,7 +16,7 @@ TechMeetup Edinburgh organisers will be happy to help participants contact secur
 - TechMeetup Organisers:
 	- Rachel Willmer: rachel@willmer.org
 	- Marius Ciocanel: marius.ciocanel@gmail.com
-	- Denise Marshall: denise@denisemarshall.co.uk
+	- Denise Marshall: call or text 07726-442-381, denise@denisemarshall.co.uk
 	- Mike McQuaid: call or text 0773-405-2864, mike@mikemcquaid.com
 	- Douglas McCallum: dgmccallum@gmail.com
 	- Organisers private mailing list: techmeetup-organisers@googlegroups.com
