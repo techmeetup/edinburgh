@@ -1,0 +1,18 @@
+## Ship List
+- [ ] Email SkyScanner Reception to make sure they're ready for us
+- [ ] Open Tech Calendar event ([link to event])
+- [ ] Drinks ordered
+- [ ] Drinks delivered to SkyScanner
+- [ ] Pizza ordered
+- [ ] Pizza paid for
+- [ ] Speakers confirmed (<#123, #456 [links to issues]>)
+- [ ] Confirm volunteer to man the door
+- [ ] Confirmed speakers video and internet requirements
+- [ ] Website updated ([link to commit])
+- [ ] Email announcement sent
+- [ ] Confirm organisers present
+    - [ ] @rwillmer
+    - [ ] @MariusCiocanel
+    - [ ] @marshant
+    - [ ] @douglasm
+    - [ ] @marksutherland

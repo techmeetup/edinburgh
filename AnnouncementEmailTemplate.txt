@@ -1,0 +1,24 @@
+# Subject: TechMeetup Edinburgh <date>
+
+Hi everyone!
+
+TechMeetup Edinburgh is meeting <date> at the normal time of 6:30pm at Skyscanner on Lauriston Place. Here's a map to the venue: http://goo.gl/Z5rItQ.
+
+You need to enter from the Lauriston Place entrance. Someone will be on-hand at reception to let you in. If there isn't feel free to call me on <phone> and I'll come and let you in.
+
+This month we have talks from:
+* <speaker1> - <talk 1 summary>
+* <speaker2> - <talk 2 summary>
+
+There's (free) drinks, pizza, snacks and plenty of time around the talks to catch up on the latest tech news and gossip.
+
+As always, the event is free and no sign-up is necessary.
+
+Big thanks to our sponsors: Skyscanner, Cultivate and Informatics Ventures.
+
+TechMeetup is a community event, so if you want to speak or help out in some way please email me off list or speak to one of the organisers at the event.
+
+See you on Wednesday!
+
+Thanks,
+<your name>
