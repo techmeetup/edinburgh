@@ -11,7 +11,6 @@
 - [ ] Website updated ([link to commit])
 - [ ] Email announcement sent
 - [ ] Confirm organisers present
-    - [ ] @rwillmer
     - [ ] @MariusCiocanel
     - [ ] @marshant
     - [ ] @douglasm
