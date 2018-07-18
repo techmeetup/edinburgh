@@ -12,6 +12,5 @@
 - [ ] Email announcement sent
 - [ ] Confirm organisers present
     - [ ] @MariusCiocanel
-    - [ ] @marshant
     - [ ] @douglasm
-    - [ ] @marksutherland
+    - [ ] @INDIGI-CO-UK
