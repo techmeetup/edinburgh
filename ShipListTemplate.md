@@ -1,6 +1,7 @@
 ## Ship List
 - [ ] Email SkyScanner Reception to make sure they're ready for us
 - [ ] Open Tech Calendar event ([link to event])
+- [ ] Update Discourse
 - [ ] Drinks ordered
 - [ ] Drinks delivered to SkyScanner
 - [ ] Pizza ordered
