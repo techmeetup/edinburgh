@@ -14,6 +14,7 @@ TechMeetup Edinburgh organisers will be happy to help participants contact secur
 
 ## Contact Information
 - TechMeetup Organisers:
+	- Noon van der Silk: noonsilk@gmail.com
 	- Marius Ciocanel: marius.ciocanel@gmail.com
 	- Denise Marshall: call or text 07726-442-381, denise@denisemarshall.co.uk
 	- Douglas McCallum: dgmccallum@gmail.com
