@@ -14,8 +14,7 @@
   - Set up the tables/drinks
   - Set up a whiteboard with the agenda
   - Set up a whiteboard with the "Announcements"; i.e. a place to share projects you want help with, etc?
-  
-- 6:00pm - People arrive, mingle
+  - 6:00pm - People arrive, mingle
 - 6:30pm - Intro; fire exits, toilets, code of conduct, pacman rule, speakers, announcements, lightning talks
 - 6:45pm - 7:15pm - Talk 1
 - 7:15pm - 7:30pm - Break
