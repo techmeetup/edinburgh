@@ -10,7 +10,7 @@
   - Find the mic for the podium
   - Connect it
   - Connect up the deck thing
-  - Turn to station 2 on the media thing; test the mic setup.
+  - Turn to station 2 on the media thing; test the mic setup. If not working; check that the gain on the deck is up the TOP, not the bottom.
   - Set up the tables/drinks
   - Set up a whiteboard with the agenda
   - Set up a whiteboard with the "Announcements"; i.e. a place to share projects you want help with, etc?
